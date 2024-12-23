@@ -1,6 +1,6 @@
 {
   "vaultName": "myWiki",
-  "lastExport": 1734906519902,
+  "lastExport": 1734978971787,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": true,
@@ -12,41 +12,66 @@
     "data/icon.png",
     "data/icon.ico",
     "data/logo.jpg",
+    "data/toilet.mp4",
+    "data/toiletlol.mp4",
+    "data/Билеты во дворец впечатлений.png",
+    "data/второй этаж.mp4",
+    "data/дп 6.png",
+    "data/дп 7.png",
+    "data/дп 8.png",
+    "data/дп 9.png",
+    "data/дп 10.png",
+    "data/дп 11.png",
+    "data/дп 12.png",
+    "data/дп 13.png",
+    "data/дп1.png",
+    "data/дп2.png",
+    "data/дп3.png",
+    "data/дп4.png",
+    "data/дп5.png",
+    "data/дп5 1.png",
+    "data/Жму руку какой-то херне.png",
+    "data/Мы с бро.png",
+    "data/полупесочные часы.mp4",
+    "data/таймлапс в дп.mp4",
+    "data/Я в оптоволокне.png",
+    "Записки/Старый дневник/Pasted image 20241221163736.png",
+    "Записки/Старый дневник/Pasted image 20241221163748.png",
+    "Записки/Старый дневник/Pasted image 20241221163753.png",
+    "Записки/Старый дневник/Pasted image 20241221163820.png",
+    "Записки/Старый дневник/Pasted image 20241221163823.png",
+    "Записки/Старый дневник/Pasted image 20241221163834.png",
+    "Записки/Старый дневник/Pasted image 20241221163838.png",
+    "Записки/Старый дневник/Pasted image 20241221163851.png",
+    "Записки/Старый дневник/Pasted image 20241221163854.png",
+    "Записки/Старый дневник/Pasted image 20241221163856.png",
+    "Записки/Старый дневник/Pasted image 20241221163927.png",
+    "Записки/Старый дневник/Pasted image 20241221163932.png",
+    "Записки/Старый дневник/Pasted image 20241221163934.png",
+    "Записки/Старый дневник/Pasted image 20241221163936.png",
+    "Записки/Старый дневник/Pasted image 20241221163948.png",
+    "Записки/Старый дневник/Pasted image 20241221163951.png",
+    "Записки/Старый дневник/Pasted image 20241221164017.png",
+    "Записки/Старый дневник/Pasted image 20241221164021.png",
+    "Записки/Старый дневник/Pasted image 20241221164107.png",
+    "Записки/Старый дневник/Pasted image 20241221164111.png",
+    "Записки/Старый дневник/Pasted image 20241221164113.png",
+    "Записки/Старый дневник/Pasted image 20241221164116.png",
+    "Записки/Старый дневник/Pasted image 20241221164119.png",
+    "Записки/Старый дневник/Pasted image 20241221164143.png",
+    "Записки/Старый дневник/Pasted image 20241221164145.png",
+    "Записки/Старый дневник/Pasted image 20241221164147.png",
+    "Записки/Старый дневник/Pasted image 20241221164149.png",
+    "Записки/Старый дневник/Pasted image 20241221164151.png",
+    "Записки/Старый дневник/Pasted image 20241221164154.png",
+    "Записки/Старый дневник/Старый дневник.md",
     "Записки/2024-12-21.md",
     "Записки/2024-12-22.md",
-    "Старый дневник/Pasted image 20241221163736.png",
-    "Старый дневник/Pasted image 20241221163748.png",
-    "Старый дневник/Pasted image 20241221163753.png",
-    "Старый дневник/Pasted image 20241221163820.png",
-    "Старый дневник/Pasted image 20241221163823.png",
-    "Старый дневник/Pasted image 20241221163834.png",
-    "Старый дневник/Pasted image 20241221163838.png",
-    "Старый дневник/Pasted image 20241221163851.png",
-    "Старый дневник/Pasted image 20241221163854.png",
-    "Старый дневник/Pasted image 20241221163856.png",
-    "Старый дневник/Pasted image 20241221163927.png",
-    "Старый дневник/Pasted image 20241221163932.png",
-    "Старый дневник/Pasted image 20241221163934.png",
-    "Старый дневник/Pasted image 20241221163936.png",
-    "Старый дневник/Pasted image 20241221163948.png",
-    "Старый дневник/Pasted image 20241221163951.png",
-    "Старый дневник/Pasted image 20241221164017.png",
-    "Старый дневник/Pasted image 20241221164021.png",
-    "Старый дневник/Pasted image 20241221164107.png",
-    "Старый дневник/Pasted image 20241221164111.png",
-    "Старый дневник/Pasted image 20241221164113.png",
-    "Старый дневник/Pasted image 20241221164116.png",
-    "Старый дневник/Pasted image 20241221164119.png",
-    "Старый дневник/Pasted image 20241221164143.png",
-    "Старый дневник/Pasted image 20241221164145.png",
-    "Старый дневник/Pasted image 20241221164147.png",
-    "Старый дневник/Pasted image 20241221164149.png",
-    "Старый дневник/Pasted image 20241221164151.png",
-    "Старый дневник/Pasted image 20241221164154.png",
-    "Старый дневник/Старый дневник.md",
+    "Записки/2024-12-23.md",
     "index.md",
     "README.md",
-    "Дворец впечатлений.md",
+    "Дашборд.canvas",
+    "Дворец Впечатлений.md",
     "lib/media/document.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -81,34 +106,48 @@
     "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "lib/styles/snippets.css",
-    "старый-дневник/pasted-image-20241221163736.png",
-    "старый-дневник/pasted-image-20241221163748.png",
-    "старый-дневник/pasted-image-20241221163753.png",
-    "старый-дневник/pasted-image-20241221163820.png",
-    "старый-дневник/pasted-image-20241221163823.png",
-    "старый-дневник/pasted-image-20241221163834.png",
-    "старый-дневник/pasted-image-20241221163838.png",
-    "старый-дневник/pasted-image-20241221163851.png",
-    "старый-дневник/pasted-image-20241221163856.png",
-    "старый-дневник/pasted-image-20241221163927.png",
-    "старый-дневник/pasted-image-20241221163932.png",
-    "старый-дневник/pasted-image-20241221163934.png",
-    "старый-дневник/pasted-image-20241221163936.png",
-    "старый-дневник/pasted-image-20241221163948.png",
-    "старый-дневник/pasted-image-20241221163951.png",
-    "старый-дневник/pasted-image-20241221164017.png",
-    "старый-дневник/pasted-image-20241221164021.png",
-    "старый-дневник/pasted-image-20241221164107.png",
-    "старый-дневник/pasted-image-20241221164111.png",
-    "старый-дневник/pasted-image-20241221164113.png",
-    "старый-дневник/pasted-image-20241221164116.png",
-    "старый-дневник/pasted-image-20241221164119.png",
-    "старый-дневник/pasted-image-20241221164143.png",
-    "старый-дневник/pasted-image-20241221164145.png",
-    "старый-дневник/pasted-image-20241221164147.png",
-    "старый-дневник/pasted-image-20241221164149.png",
-    "старый-дневник/pasted-image-20241221164151.png",
-    "старый-дневник/pasted-image-20241221164154.png"
+    "записки/старый-дневник/pasted-image-20241221163736.png",
+    "записки/старый-дневник/pasted-image-20241221163748.png",
+    "записки/старый-дневник/pasted-image-20241221163753.png",
+    "записки/старый-дневник/pasted-image-20241221163820.png",
+    "записки/старый-дневник/pasted-image-20241221163823.png",
+    "записки/старый-дневник/pasted-image-20241221163834.png",
+    "записки/старый-дневник/pasted-image-20241221163838.png",
+    "записки/старый-дневник/pasted-image-20241221163851.png",
+    "записки/старый-дневник/pasted-image-20241221163856.png",
+    "записки/старый-дневник/pasted-image-20241221163927.png",
+    "записки/старый-дневник/pasted-image-20241221163932.png",
+    "записки/старый-дневник/pasted-image-20241221163934.png",
+    "записки/старый-дневник/pasted-image-20241221163936.png",
+    "записки/старый-дневник/pasted-image-20241221163948.png",
+    "записки/старый-дневник/pasted-image-20241221163951.png",
+    "записки/старый-дневник/pasted-image-20241221164017.png",
+    "записки/старый-дневник/pasted-image-20241221164021.png",
+    "записки/старый-дневник/pasted-image-20241221164107.png",
+    "записки/старый-дневник/pasted-image-20241221164111.png",
+    "записки/старый-дневник/pasted-image-20241221164113.png",
+    "записки/старый-дневник/pasted-image-20241221164116.png",
+    "записки/старый-дневник/pasted-image-20241221164119.png",
+    "записки/старый-дневник/pasted-image-20241221164143.png",
+    "записки/старый-дневник/pasted-image-20241221164145.png",
+    "записки/старый-дневник/pasted-image-20241221164147.png",
+    "записки/старый-дневник/pasted-image-20241221164149.png",
+    "записки/старый-дневник/pasted-image-20241221164151.png",
+    "записки/старый-дневник/pasted-image-20241221164154.png",
+    "data/мы-с-бро.png",
+    "data/жму-руку-какой-то-херне.png",
+    "data/я-в-оптоволокне.png",
+    "data/билеты-во-дворец-впечатлений.png",
+    "data/дп5-1.png",
+    "data/дп-9.png",
+    "data/дп-7.png",
+    "data/дп-8.png",
+    "data/дп-6.png",
+    "data/дп-13.png",
+    "data/дп-11.png",
+    "data/дп-12.png",
+    "data/дп-10.png",
+    "data/полупесочные-часы.mp4"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -147,247 +186,38 @@
   ],
   "fileInfo": {
     "data/angry_penguin.mp4": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 212492,
       "exportedPath": "data/angry_penguin.mp4",
       "dependencies": []
     },
     "data/document.png": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 3981,
       "exportedPath": "data/document.png",
       "dependencies": []
     },
     "data/icon.ico": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 16958,
       "exportedPath": "data/icon.ico",
       "dependencies": []
     },
     "data/icon.png": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 73432,
       "exportedPath": "data/icon.png",
       "dependencies": []
     },
     "data/logo.jpg": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 31788,
       "exportedPath": "data/logo.jpg",
       "dependencies": []
     },
-    "Старый дневник/Pasted image 20241221163736.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1458568,
-      "exportedPath": "старый-дневник/pasted-image-20241221163736.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163748.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1534987,
-      "exportedPath": "старый-дневник/pasted-image-20241221163748.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163753.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1560475,
-      "exportedPath": "старый-дневник/pasted-image-20241221163753.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163820.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1706134,
-      "exportedPath": "старый-дневник/pasted-image-20241221163820.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163823.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1454684,
-      "exportedPath": "старый-дневник/pasted-image-20241221163823.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163834.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1613878,
-      "exportedPath": "старый-дневник/pasted-image-20241221163834.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163838.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1678624,
-      "exportedPath": "старый-дневник/pasted-image-20241221163838.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163851.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1156124,
-      "exportedPath": "старый-дневник/pasted-image-20241221163851.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163854.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1307861,
-      "exportedPath": "старый-дневник/pasted-image-20241221163854.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163856.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1307861,
-      "exportedPath": "старый-дневник/pasted-image-20241221163856.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163927.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1180755,
-      "exportedPath": "старый-дневник/pasted-image-20241221163927.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163932.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1086004,
-      "exportedPath": "старый-дневник/pasted-image-20241221163932.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163934.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1020427,
-      "exportedPath": "старый-дневник/pasted-image-20241221163934.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163936.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1001775,
-      "exportedPath": "старый-дневник/pasted-image-20241221163936.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163948.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 2829743,
-      "exportedPath": "старый-дневник/pasted-image-20241221163948.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221163951.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 2835580,
-      "exportedPath": "старый-дневник/pasted-image-20241221163951.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221164017.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1956920,
-      "exportedPath": "старый-дневник/pasted-image-20241221164017.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221164021.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 2730453,
-      "exportedPath": "старый-дневник/pasted-image-20241221164021.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221164107.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1478810,
-      "exportedPath": "старый-дневник/pasted-image-20241221164107.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221164111.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1536836,
-      "exportedPath": "старый-дневник/pasted-image-20241221164111.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221164113.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1829459,
-      "exportedPath": "старый-дневник/pasted-image-20241221164113.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221164116.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1760395,
-      "exportedPath": "старый-дневник/pasted-image-20241221164116.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221164119.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1736881,
-      "exportedPath": "старый-дневник/pasted-image-20241221164119.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221164143.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 541950,
-      "exportedPath": "старый-дневник/pasted-image-20241221164143.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221164145.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 742902,
-      "exportedPath": "старый-дневник/pasted-image-20241221164145.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221164147.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 492980,
-      "exportedPath": "старый-дневник/pasted-image-20241221164147.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221164149.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 549453,
-      "exportedPath": "старый-дневник/pasted-image-20241221164149.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221164151.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 493064,
-      "exportedPath": "старый-дневник/pasted-image-20241221164151.png",
-      "dependencies": []
-    },
-    "Старый дневник/Pasted image 20241221164154.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 749566,
-      "exportedPath": "старый-дневник/pasted-image-20241221164154.png",
-      "dependencies": []
-    },
-    "Старый дневник/Старый дневник.md": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1274,
-      "exportedPath": "старый-дневник/старый-дневник.html",
-      "dependencies": [
-        "старый-дневник/pasted-image-20241221163736.png",
-        "старый-дневник/pasted-image-20241221163748.png",
-        "старый-дневник/pasted-image-20241221163753.png",
-        "старый-дневник/pasted-image-20241221163820.png",
-        "старый-дневник/pasted-image-20241221163823.png",
-        "старый-дневник/pasted-image-20241221163834.png",
-        "старый-дневник/pasted-image-20241221163838.png",
-        "старый-дневник/pasted-image-20241221163851.png",
-        "старый-дневник/pasted-image-20241221163856.png",
-        "старый-дневник/pasted-image-20241221163927.png",
-        "старый-дневник/pasted-image-20241221163932.png",
-        "старый-дневник/pasted-image-20241221163934.png",
-        "старый-дневник/pasted-image-20241221163936.png",
-        "старый-дневник/pasted-image-20241221163948.png",
-        "старый-дневник/pasted-image-20241221163951.png",
-        "старый-дневник/pasted-image-20241221164017.png",
-        "старый-дневник/pasted-image-20241221164021.png",
-        "старый-дневник/pasted-image-20241221164107.png",
-        "старый-дневник/pasted-image-20241221164111.png",
-        "старый-дневник/pasted-image-20241221164113.png",
-        "старый-дневник/pasted-image-20241221164116.png",
-        "старый-дневник/pasted-image-20241221164119.png",
-        "старый-дневник/pasted-image-20241221164143.png",
-        "старый-дневник/pasted-image-20241221164145.png",
-        "старый-дневник/pasted-image-20241221164147.png",
-        "старый-дневник/pasted-image-20241221164149.png",
-        "старый-дневник/pasted-image-20241221164151.png",
-        "старый-дневник/pasted-image-20241221164154.png"
-      ]
-    },
     "index.md": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 679,
+      "modifiedTime": 1734978971787,
+      "sourceSize": 707,
       "exportedPath": "index.html",
       "dependencies": [
         "data/icon.png",
@@ -395,387 +225,219 @@
       ]
     },
     "README.md": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 1297,
       "exportedPath": "readme.html",
       "dependencies": [
         "data/logo.jpg"
       ]
     },
-    "старый-дневник/pasted-image-20241221163736.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1458568,
-      "exportedPath": "старый-дневник/pasted-image-20241221163736.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163748.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1534987,
-      "exportedPath": "старый-дневник/pasted-image-20241221163748.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163753.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1560475,
-      "exportedPath": "старый-дневник/pasted-image-20241221163753.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163820.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1706134,
-      "exportedPath": "старый-дневник/pasted-image-20241221163820.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163823.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1454684,
-      "exportedPath": "старый-дневник/pasted-image-20241221163823.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163834.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1613878,
-      "exportedPath": "старый-дневник/pasted-image-20241221163834.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163838.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1678624,
-      "exportedPath": "старый-дневник/pasted-image-20241221163838.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163851.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1156124,
-      "exportedPath": "старый-дневник/pasted-image-20241221163851.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163856.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1307861,
-      "exportedPath": "старый-дневник/pasted-image-20241221163856.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163927.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1180755,
-      "exportedPath": "старый-дневник/pasted-image-20241221163927.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163932.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1086004,
-      "exportedPath": "старый-дневник/pasted-image-20241221163932.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163934.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1020427,
-      "exportedPath": "старый-дневник/pasted-image-20241221163934.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163936.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1001775,
-      "exportedPath": "старый-дневник/pasted-image-20241221163936.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163948.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 2829743,
-      "exportedPath": "старый-дневник/pasted-image-20241221163948.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221163951.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 2835580,
-      "exportedPath": "старый-дневник/pasted-image-20241221163951.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221164017.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1956920,
-      "exportedPath": "старый-дневник/pasted-image-20241221164017.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221164021.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 2730453,
-      "exportedPath": "старый-дневник/pasted-image-20241221164021.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221164107.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1478810,
-      "exportedPath": "старый-дневник/pasted-image-20241221164107.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221164111.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1536836,
-      "exportedPath": "старый-дневник/pasted-image-20241221164111.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221164113.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1829459,
-      "exportedPath": "старый-дневник/pasted-image-20241221164113.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221164116.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1760395,
-      "exportedPath": "старый-дневник/pasted-image-20241221164116.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221164119.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 1736881,
-      "exportedPath": "старый-дневник/pasted-image-20241221164119.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221164143.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 541950,
-      "exportedPath": "старый-дневник/pasted-image-20241221164143.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221164145.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 742902,
-      "exportedPath": "старый-дневник/pasted-image-20241221164145.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221164147.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 492980,
-      "exportedPath": "старый-дневник/pasted-image-20241221164147.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221164149.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 549453,
-      "exportedPath": "старый-дневник/pasted-image-20241221164149.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221164151.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 493064,
-      "exportedPath": "старый-дневник/pasted-image-20241221164151.png",
-      "dependencies": []
-    },
-    "старый-дневник/pasted-image-20241221164154.png": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 749566,
-      "exportedPath": "старый-дневник/pasted-image-20241221164154.png",
-      "dependencies": []
-    },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 17993,
+      "modifiedTime": 1734978971787,
+      "sourceSize": 26882,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.ico": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 16958,
       "exportedPath": "lib/media/favicon.ico",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 521,
+      "modifiedTime": 1734978971787,
+      "sourceSize": 619,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 11610,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 179,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
     "data/head.html": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 2268,
       "exportedPath": "data/head.html",
       "dependencies": []
     },
     "lib/html/custom-head-content.html": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 1862,
       "exportedPath": "lib/html/custom-head-content.html",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 2104,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 3156,
+      "modifiedTime": 1734978971787,
+      "sourceSize": 3870,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "Записки/2024-12-21.md": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 5328,
       "exportedPath": "записки/2024-12-21.html",
       "dependencies": [
@@ -783,21 +445,661 @@
       ]
     },
     "Записки/2024-12-22.md": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 7018,
       "exportedPath": "записки/2024-12-22.html",
       "dependencies": []
     },
     "lib/media/document.png": {
-      "modifiedTime": 1734906519902,
+      "modifiedTime": 1734978971787,
       "sourceSize": 3981,
       "exportedPath": "lib/media/document.png",
       "dependencies": []
     },
-    "Дворец впечатлений.md": {
-      "modifiedTime": 1734906519902,
-      "sourceSize": 784,
+    "Записки/2024-12-23.md": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1111,
+      "exportedPath": "записки/2024-12-23.html",
+      "dependencies": []
+    },
+    "data/toilet.mp4": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 774600,
+      "exportedPath": "data/toilet.mp4",
+      "dependencies": []
+    },
+    "data/Билеты во дворец впечатлений.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1526097,
+      "exportedPath": "data/билеты-во-дворец-впечатлений.png",
+      "dependencies": []
+    },
+    "data/дп 6.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1078501,
+      "exportedPath": "data/дп-6.png",
+      "dependencies": []
+    },
+    "data/дп 7.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1186398,
+      "exportedPath": "data/дп-7.png",
+      "dependencies": []
+    },
+    "data/дп 8.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1109707,
+      "exportedPath": "data/дп-8.png",
+      "dependencies": []
+    },
+    "data/дп 9.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1153546,
+      "exportedPath": "data/дп-9.png",
+      "dependencies": []
+    },
+    "data/дп 10.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1319879,
+      "exportedPath": "data/дп-10.png",
+      "dependencies": []
+    },
+    "data/дп 11.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 987771,
+      "exportedPath": "data/дп-11.png",
+      "dependencies": []
+    },
+    "data/дп 12.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 941745,
+      "exportedPath": "data/дп-12.png",
+      "dependencies": []
+    },
+    "data/дп 13.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 2032577,
+      "exportedPath": "data/дп-13.png",
+      "dependencies": []
+    },
+    "data/дп1.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1025101,
+      "exportedPath": "data/дп1.png",
+      "dependencies": []
+    },
+    "data/дп2.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1091789,
+      "exportedPath": "data/дп2.png",
+      "dependencies": []
+    },
+    "data/дп3.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 791898,
+      "exportedPath": "data/дп3.png",
+      "dependencies": []
+    },
+    "data/дп4.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 2325110,
+      "exportedPath": "data/дп4.png",
+      "dependencies": []
+    },
+    "data/дп5.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 2176566,
+      "exportedPath": "data/дп5.png",
+      "dependencies": []
+    },
+    "data/дп5 1.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1248744,
+      "exportedPath": "data/дп5-1.png",
+      "dependencies": []
+    },
+    "data/Жму руку какой-то херне.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1133702,
+      "exportedPath": "data/жму-руку-какой-то-херне.png",
+      "dependencies": []
+    },
+    "data/Мы с бро.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 974140,
+      "exportedPath": "data/мы-с-бро.png",
+      "dependencies": []
+    },
+    "data/полупесочные часы.mp4": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1091949,
+      "exportedPath": "data/полупесочные-часы.mp4",
+      "dependencies": []
+    },
+    "data/таймлапс в дп.mp4": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 211538,
+      "exportedPath": "data/таймлапс-в-дп.mp4",
+      "dependencies": []
+    },
+    "data/Я в оптоволокне.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 942337,
+      "exportedPath": "data/я-в-оптоволокне.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163736.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1458568,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163736.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163748.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1534987,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163748.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163753.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1560475,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163753.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163820.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1706134,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163820.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163823.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1454684,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163823.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163834.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1613878,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163834.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163838.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1678624,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163838.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163851.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1156124,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163851.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163854.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1307861,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163854.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163856.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1307861,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163856.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163927.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1180755,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163927.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163932.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1086004,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163932.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163934.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1020427,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163934.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163936.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1001775,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163936.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163948.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 2829743,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163948.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221163951.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 2835580,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163951.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221164017.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1956920,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164017.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221164021.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 2730453,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164021.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221164107.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1478810,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164107.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221164111.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1536836,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164111.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221164113.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1829459,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164113.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221164116.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1760395,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164116.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221164119.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1736881,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164119.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221164143.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 541950,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164143.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221164145.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 742902,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164145.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221164147.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 492980,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164147.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221164149.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 549453,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164149.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221164151.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 493064,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164151.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Pasted image 20241221164154.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 749566,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164154.png",
+      "dependencies": []
+    },
+    "Записки/Старый дневник/Старый дневник.md": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1274,
+      "exportedPath": "записки/старый-дневник/старый-дневник.html",
+      "dependencies": [
+        "записки/старый-дневник/pasted-image-20241221163736.png",
+        "записки/старый-дневник/pasted-image-20241221163748.png",
+        "записки/старый-дневник/pasted-image-20241221163753.png",
+        "записки/старый-дневник/pasted-image-20241221163820.png",
+        "записки/старый-дневник/pasted-image-20241221163823.png",
+        "записки/старый-дневник/pasted-image-20241221163834.png",
+        "записки/старый-дневник/pasted-image-20241221163838.png",
+        "записки/старый-дневник/pasted-image-20241221163851.png",
+        "записки/старый-дневник/pasted-image-20241221163856.png",
+        "записки/старый-дневник/pasted-image-20241221163927.png",
+        "записки/старый-дневник/pasted-image-20241221163932.png",
+        "записки/старый-дневник/pasted-image-20241221163934.png",
+        "записки/старый-дневник/pasted-image-20241221163936.png",
+        "записки/старый-дневник/pasted-image-20241221163948.png",
+        "записки/старый-дневник/pasted-image-20241221163951.png",
+        "записки/старый-дневник/pasted-image-20241221164017.png",
+        "записки/старый-дневник/pasted-image-20241221164021.png",
+        "записки/старый-дневник/pasted-image-20241221164107.png",
+        "записки/старый-дневник/pasted-image-20241221164111.png",
+        "записки/старый-дневник/pasted-image-20241221164113.png",
+        "записки/старый-дневник/pasted-image-20241221164116.png",
+        "записки/старый-дневник/pasted-image-20241221164119.png",
+        "записки/старый-дневник/pasted-image-20241221164143.png",
+        "записки/старый-дневник/pasted-image-20241221164145.png",
+        "записки/старый-дневник/pasted-image-20241221164147.png",
+        "записки/старый-дневник/pasted-image-20241221164149.png",
+        "записки/старый-дневник/pasted-image-20241221164151.png",
+        "записки/старый-дневник/pasted-image-20241221164154.png"
+      ]
+    },
+    "Дашборд.canvas": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 2068,
+      "exportedPath": "дашборд.html",
+      "dependencies": []
+    },
+    "Дворец Впечатлений.md": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 2583,
       "exportedPath": "дворец-впечатлений.html",
+      "dependencies": [
+        "data/мы-с-бро.png",
+        "data/жму-руку-какой-то-херне.png",
+        "data/я-в-оптоволокне.png",
+        "data/билеты-во-дворец-впечатлений.png",
+        "data/второй-этаж.mp4",
+        "data/toilet.mp4",
+        "data/toiletlol.mp4",
+        "data/дп1.png",
+        "data/дп2.png",
+        "data/дп3.png",
+        "data/дп4.png",
+        "data/дп5.png",
+        "data/дп5-1.png",
+        "data/дп-9.png",
+        "data/дп-7.png",
+        "data/дп-8.png",
+        "data/дп-6.png",
+        "data/дп-13.png",
+        "data/дп-11.png",
+        "data/дп-12.png",
+        "data/дп-10.png",
+        "data/полупесочные-часы.mp4"
+      ]
+    },
+    "записки/старый-дневник/pasted-image-20241221163736.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1458568,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163736.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163748.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1534987,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163748.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163753.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1560475,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163753.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163820.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1706134,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163820.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163823.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1454684,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163823.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163834.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1613878,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163834.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163838.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1678624,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163838.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163851.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1156124,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163851.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163856.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1307861,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163856.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163927.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1180755,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163927.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163932.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1086004,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163932.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163934.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1020427,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163934.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163936.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1001775,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163936.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163948.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 2829743,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163948.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221163951.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 2835580,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221163951.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221164017.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1956920,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164017.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221164021.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 2730453,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164021.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221164107.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1478810,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164107.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221164111.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1536836,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164111.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221164113.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1829459,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164113.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221164116.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1760395,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164116.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221164119.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1736881,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164119.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221164143.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 541950,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164143.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221164145.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 742902,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164145.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221164147.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 492980,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164147.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221164149.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 549453,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164149.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221164151.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 493064,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164151.png",
+      "dependencies": []
+    },
+    "записки/старый-дневник/pasted-image-20241221164154.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 749566,
+      "exportedPath": "записки/старый-дневник/pasted-image-20241221164154.png",
+      "dependencies": []
+    },
+    "data/мы-с-бро.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 974140,
+      "exportedPath": "data/мы-с-бро.png",
+      "dependencies": []
+    },
+    "data/жму-руку-какой-то-херне.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1133702,
+      "exportedPath": "data/жму-руку-какой-то-херне.png",
+      "dependencies": []
+    },
+    "data/я-в-оптоволокне.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 942337,
+      "exportedPath": "data/я-в-оптоволокне.png",
+      "dependencies": []
+    },
+    "data/билеты-во-дворец-впечатлений.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1526097,
+      "exportedPath": "data/билеты-во-дворец-впечатлений.png",
+      "dependencies": []
+    },
+    "data/дп5-1.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1248744,
+      "exportedPath": "data/дп5-1.png",
+      "dependencies": []
+    },
+    "data/дп-9.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1153546,
+      "exportedPath": "data/дп-9.png",
+      "dependencies": []
+    },
+    "data/дп-7.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1186398,
+      "exportedPath": "data/дп-7.png",
+      "dependencies": []
+    },
+    "data/дп-8.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1109707,
+      "exportedPath": "data/дп-8.png",
+      "dependencies": []
+    },
+    "data/дп-6.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1078501,
+      "exportedPath": "data/дп-6.png",
+      "dependencies": []
+    },
+    "data/дп-13.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 2032577,
+      "exportedPath": "data/дп-13.png",
+      "dependencies": []
+    },
+    "data/дп-11.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 987771,
+      "exportedPath": "data/дп-11.png",
+      "dependencies": []
+    },
+    "data/дп-12.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 941745,
+      "exportedPath": "data/дп-12.png",
+      "dependencies": []
+    },
+    "data/дп-10.png": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1319879,
+      "exportedPath": "data/дп-10.png",
+      "dependencies": []
+    },
+    "data/полупесочные-часы.mp4": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1091949,
+      "exportedPath": "data/полупесочные-часы.mp4",
+      "dependencies": []
+    },
+    "data/toiletlol.mp4": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1077489,
+      "exportedPath": "data/toiletlol.mp4",
+      "dependencies": []
+    },
+    "data/второй этаж.mp4": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1969076,
+      "exportedPath": "data/второй-этаж.mp4",
+      "dependencies": []
+    },
+    "data/второй-этаж.mp4": {
+      "modifiedTime": 1734978971787,
+      "sourceSize": 1969076,
+      "exportedPath": "data/второй-этаж.mp4",
       "dependencies": []
     }
   }
