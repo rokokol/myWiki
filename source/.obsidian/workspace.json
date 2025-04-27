@@ -11,14 +11,17 @@
             "id": "9cff8118662a294e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Интересные тэги.md",
-                "mode": "preview",
-                "source": true
+                "file": "Дашборд.canvas",
+                "viewState": {
+                  "x": -99.5,
+                  "y": -210,
+                  "zoom": -1.4207045291398988
+                }
               },
-              "icon": "lucide-file",
-              "title": "Интересные тэги"
+              "icon": "lucide-layout-dashboard",
+              "title": "Дашборд"
             }
           }
         ]
@@ -214,14 +217,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-excalidraw-plugin:New drawing": true,
       "obsidian-kanban:Create new board": true,
-      "obsidian-full-calendar:Open Full Calendar": true,
-      "copilot:Open Copilot Chat": true
+      "obsidian-full-calendar:Open Full Calendar": true
     }
   },
-  "active": "5e0279082d3a89a1",
+  "active": "9cff8118662a294e",
   "lastOpenFiles": [
-    "CNAME",
-    "README.md",
+    "Интересные тэги.md",
     "Дашборд.canvas",
     "index.md",
     "Учеба и хобби/Черновики/Чм семестровая по СЛАУ.md",
@@ -247,6 +248,8 @@
     "Учеба и хобби/Конспекты/Математический анализ/Элементы функционального анализа.md",
     "Учеба и хобби/Конспекты/Математический анализ/Ряды Фурье, Тригонометрические ряды Фурье.md",
     "Учеба и хобби/Конспекты/Математический анализ/Матан Hub (лекции).md",
+    "Учеба и хобби/Конспекты/Математический анализ/Интеграл и функция (ядро) Дирихле.md",
+    "CNAME",
     "data/templates",
     "data/photos/я делаю хм.jpg",
     "data/photos/я в сущностях.png",
@@ -266,7 +269,6 @@
     "data/photos/коллоквиум по терверу билеты.mp4",
     "data/photos/бью о головы женщин.mp4",
     "data/photos/Снег в конце апреля.mp4",
-    "data/photos/Едем с Саней.mp4",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
