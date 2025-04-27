@@ -1,0 +1,23 @@
+{
+  "showUnsupportedFiles": true,
+  "livePreview": false,
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheckDictionary": [
+    "блять",
+    "Наведали",
+    "квантированную",
+    "квантованную *",
+    "нейронками",
+    "амбассадором",
+    "Даша",
+    "незавыс\n"
+  ]
+}

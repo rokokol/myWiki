@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "align-images-left",
+    "align-media-left"
+  ],
+  "baseFontSizeAction": false,
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "accentColor": "",
+  "showRibbon": true
+}

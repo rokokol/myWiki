@@ -1,0 +1,15 @@
+{
+  "snippets_file": "-- : —\nр : ₽",
+  "snippets": [
+    "-- : —",
+    "р : ₽"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": false,
+  "useSpace": true,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

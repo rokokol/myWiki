@@ -1,0 +1,21 @@
+{
+  "defaultLanguage": "english",
+  "triggerChar": ":",
+  "showKeywords": true,
+  "emojiPopularity": {
+    "🥲": 1,
+    "🌐": 1,
+    "🕔": 1,
+    "🔖": 1,
+    "🤓": 1,
+    "😎": 1,
+    "😏": 1,
+    "😅": 1,
+    "🪑": 1,
+    "🙏": 1,
+    "😋": 1,
+    "🙂": 1,
+    "💀": 1
+  },
+  "customEmojiMappings": {}
+}

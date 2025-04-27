@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Записки   ",
+      "color": {
+        "a": 1,
+        "rgb": 15774279
+      }
+    },
+    {
+      "query": "path:Личное  ",
+      "color": {
+        "a": 1,
+        "rgb": 7078010
+      }
+    },
+    {
+      "query": "path:События  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Учеба и хобби/data/\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3097164
+      }
+    },
+    {
+      "query": "path:\"Учеба и хобби/Конспекты\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Учеба и хобби/\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Циклы Мыслей\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13454637
+      }
+    },
+    {
+      "query": "path:Люди  ",
+      "color": {
+        "a": 1,
+        "rgb": 16736725
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 1.08374233128834,
+  "lineSizeMultiplier": 0.946319018404908,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.21135631392134774,
+  "close": false
+}
