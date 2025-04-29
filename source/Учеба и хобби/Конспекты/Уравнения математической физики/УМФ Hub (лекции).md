@@ -1,5 +1,4 @@
 ---
-icon: LiAtom
 tags:
   - "#y2025"
   - умф

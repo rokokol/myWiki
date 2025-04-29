@@ -1,5 +1,4 @@
 ---
-icon: LiUnderline
 tags:
   - "#y2025"
   - матан

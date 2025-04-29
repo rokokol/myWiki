@@ -1,5 +1,4 @@
 ---
-icon: LiBarChart3
 tags:
   - "#y2025"
   - матстат
