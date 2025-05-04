@@ -1,23 +1,23 @@
 {
 	"nodes":[
-		{"id":"9c4289b725d66db7","type":"text","text":"### Arduino\n- [<] Зарефакторить сурс прошивки для MASH-A\n- [>] Спроектировать корпус для MASH-A\n- [>] Импортировать камеру MASH-A в daily note\n- [>] Собрать **MASH-A**","x":60,"y":-280,"width":350,"height":280},
-		{"id":"4b4512d6f290d352","type":"text","text":"### Математика\n- [/] [[Пособие по ЧМ.pdf|Пособие]] по ==числакам== *[7/10]*\n- [/] MIT [лекции](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) по ==матстату== *[5/22]*\n- [?] МФТИ [лекции](https://www.youtube.com/playlist?list=PLthfp5exSWErTVWq4cVtRXDw5MqBqavJ1) по ==матстату== *[0/12]*\n- [ ] MIT [лекции](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) по ==CS== *[1/25]*\n- [ ] Какие-то [внятные лекции](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAY-pm5c4XZQhSl1U_20itT) по ==дискретке== *[0/21]*\n- [/] MIT [[Тервер от MIT.pdf|книга]] по ==терверу== *[3/7]*","x":-537,"y":-280,"width":404,"height":280},
-		{"id":"b997e4008b322162","type":"text","text":"## Книги\n- [I] Идеальный программист\n- [<] Грокаем алгоритмы\n- [I] Код (Чарльз Петцольд)\n- [/] Пособие по ЧМ\n- [/] Пособие по твимсу\n- [<] Теормин по Computer Science\n- [?] Нестандартный анализ","x":-800,"y":-860,"width":440,"height":280},
-		{"id":"bcdf1f2e61d64519","type":"text","text":"### Прога\n- [>] Воркать над C++ либой для функций Матьё\n- [!] Написать доклад о `matplotlibcpp`. Показать в презентации трансциляцию питон кода в `cpp`\n- [!] Написать доклад о использовании движка `python` в `cpp`. Сравни `cpp` в питоне и `python` в плюсах\n- [>] Форкануть и добавить поддержку тессеракта для Flameshot\n- [<] Крутой [курс](https://www.youtube.com/playlist?list=PL3BR09unfgcgf7R88ZQRQqWOdLy4pRW2h) по С++ *[0/28]*","x":-537,"y":60,"width":404,"height":400},
-		{"id":"9745b257bdc107bf","type":"text","text":"## Хобби и проекты\n- [ ] ","x":60,"y":-503,"width":350,"height":183},
-		{"id":"f6fcc7f81a1bfb68","type":"text","text":"### Числаки\n- [x] Левый интеграл\n- [x] Центральный интеграл\n- [x] Метод Симпсона\n- [x] Метод Гаусса\n- [x] Отчет","x":-1000,"y":-484,"width":329,"height":224},
-		{"id":"439aba2442df5da4","type":"text","text":"# Общее:\n\n- [f] ","x":-220,"y":-720,"width":380,"height":177},
-		{"id":"4606ad56b0c9ef75","type":"text","text":"## Учеба\n- [p] Усложненная задача о трех небесных телах\n- [c] Пройти цифровые кафедры *[5/8]*","x":-510,"y":-513,"width":350,"height":203},
-		{"id":"62a20abaa5bc311d","type":"text","text":"## Идеи\n- [?] Собрать ноутбук ~8'' — *\"Квант-8\"*\n- [?] Сшить сумку-пояс, похожую на корсет и напичкать ее всякой хуйней — *\"Пояс\"*","x":360,"y":-880,"width":441,"height":210}
+		{"id":"7c13986b627c7d9e","type":"text","text":"### Математика\n- [/] [[Пособие по ЧМ.pdf|Пособие]] по ==числакам== *[7/10]*\n- [-] MIT [лекции](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) по ==матстату== *[5/22]*\n- [/] МФТИ [лекции](https://www.youtube.com/playlist?list=PLthfp5exSWErTVWq4cVtRXDw5MqBqavJ1) по ==матстату== *[2/12]*\n- [>] МФТИ [лекции](https://youtube.com/playlist?list=PLthfp5exSWEqYroMZVPIOPd5Dz3ARAXzN&si=kuYaO4bODLIbzDuN) по ==терверу==  \n- [/] МГУ [лекции](https://www.youtube.com/playlist?list=PLcsjsqLLSfNAY-pm5c4XZQhSl1U_20itT) по ==дискретке== *[2/21]*\n- [<] MIT [[Тервер от MIT.pdf|книга]] по ==терверу== *[3/7]*\n- [<] Мат [теормин](https://education.yandex.ru/handbook/ml) по математике для ML от Яндекса *[0/7]*","x":-537,"y":-280,"width":404,"height":280},
+		{"id":"c1a97c3c27356313","type":"text","text":"## Книги\n- [I] Идеальный программист\n- [<] Грокаем алгоритмы\n- [I] Код (Чарльз Петцольд)\n- [/] Пособие по ЧМ\n- [/] Пособие по твимсу\n- [<] Теормин по Computer Science\n- [?] Нестандартный анализ","x":-800,"y":-860,"width":440,"height":280},
+		{"id":"1514f8cf43822d6f","type":"text","text":"### Прога\n- [-] Воркать над C++ либой для функций Матьё\n- [!] Написать доклад о `matplotlibcpp`. Показать в презентации трансциляцию питон кода в `cpp`\n- [!] Написать доклад о использовании движка `python` в `cpp`. Сравни `cpp` в питоне и `python` в плюсах\n- [>] Форкануть и добавить поддержку тессеракта для Flameshot\n- [<] Крутой [курс](https://www.youtube.com/playlist?list=PL3BR09unfgcgf7R88ZQRQqWOdLy4pRW2h) по С++ *[0/28]*\n- [>] MIT [лекции](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) по ==CS== *[1/25]*","x":-537,"y":60,"width":404,"height":400},
+		{"id":"a9830713e5351242","type":"text","text":"## Хобби и проекты\n- [ ] ","x":60,"y":-503,"width":350,"height":183},
+		{"id":"ae78a72b682bd0e2","type":"text","text":"### Числаки\n- [x] Левый интеграл\n- [x] Центральный интеграл\n- [x] Метод Симпсона\n- [x] Метод Гаусса\n- [x] Отчет","x":-1000,"y":-484,"width":329,"height":224},
+		{"id":"55bc973d7ebce677","type":"text","text":"# Общее:\n\n","x":-220,"y":-720,"width":380,"height":177},
+		{"id":"502165880bb0c17a","type":"text","text":"## Учеба\n- [/] Усложненная задача о трех небесных телах\n- [-] Пройти цифровые кафедры *[5/8]*","x":-510,"y":-513,"width":350,"height":203},
+		{"id":"6f2292e9d609ed18","type":"text","text":"## Идеи\n- [?] Собрать ноутбук ~8'' — *\"Квант-8\"*\n- [?] Сшить сумку-пояс, похожую на корсет и напичкать ее всякой хуйней — *\"Пояс\"*","x":360,"y":-880,"width":441,"height":210},
+		{"id":"9035b8b68e331a05","type":"text","text":"### Arduino\n- [<] Зарефакторить сурс прошивки для MASH-A\n- [>] Спроектировать корпус для MASH-A\n- [>] Импортировать камеру MASH-A в daily note\n- [>] Собрать **MASH-A**","x":60,"y":-280,"width":350,"height":280}
 	],
 	"edges":[
-		{"id":"55766ef3cbb10fe6","fromNode":"439aba2442df5da4","fromSide":"left","toNode":"4606ad56b0c9ef75","toSide":"top"},
-		{"id":"7e3d0d06a18a1842","fromNode":"4606ad56b0c9ef75","fromSide":"left","toNode":"4b4512d6f290d352","toSide":"left"},
-		{"id":"9d0ebbe6b7d7bf2c","fromNode":"439aba2442df5da4","fromSide":"right","toNode":"9745b257bdc107bf","toSide":"top"},
-		{"id":"d46d113047f817f6","fromNode":"9745b257bdc107bf","fromSide":"right","toNode":"9c4289b725d66db7","toSide":"right"},
-		{"id":"a19df4d5ee13392e","fromNode":"439aba2442df5da4","fromSide":"left","toNode":"b997e4008b322162","toSide":"right"},
-		{"id":"6363aee102524ad4","fromNode":"4606ad56b0c9ef75","fromSide":"right","toNode":"bcdf1f2e61d64519","toSide":"right"},
-		{"id":"ea4722110919392a","fromNode":"4606ad56b0c9ef75","fromSide":"left","toNode":"f6fcc7f81a1bfb68","toSide":"right"},
-		{"id":"d86121b058feab2a","fromNode":"439aba2442df5da4","fromSide":"right","toNode":"62a20abaa5bc311d","toSide":"left"}
+		{"id":"6f051353d4943e43","fromNode":"502165880bb0c17a","fromSide":"left","toNode":"7c13986b627c7d9e","toSide":"left"},
+		{"id":"50792ae7f07f6c74","fromNode":"55bc973d7ebce677","fromSide":"left","toNode":"c1a97c3c27356313","toSide":"right"},
+		{"id":"590de84ec163b526","fromNode":"502165880bb0c17a","fromSide":"right","toNode":"1514f8cf43822d6f","toSide":"right"},
+		{"id":"ae40cd86feb30413","fromNode":"a9830713e5351242","fromSide":"right","toNode":"9035b8b68e331a05","toSide":"right"},
+		{"id":"a3ba0e2608bb69e0","fromNode":"55bc973d7ebce677","fromSide":"right","toNode":"a9830713e5351242","toSide":"top"},
+		{"id":"60c733abbfbb968b","fromNode":"502165880bb0c17a","fromSide":"left","toNode":"ae78a72b682bd0e2","toSide":"right"},
+		{"id":"30d06afaed3fc93f","fromNode":"55bc973d7ebce677","fromSide":"left","toNode":"502165880bb0c17a","toSide":"top"},
+		{"id":"806859b3b4efa198","fromNode":"55bc973d7ebce677","fromSide":"right","toNode":"6f2292e9d609ed18","toSide":"left"}
 	]
 }

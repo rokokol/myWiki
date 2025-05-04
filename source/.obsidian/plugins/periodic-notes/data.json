@@ -1,0 +1,34 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "folder": "Записки",
+    "template": "data/templates/daily_note_template",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "data/templates/daily_note_template",
+    "folder": "Записки/Еженедельные",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "data/templates/daily_note_template",
+    "folder": "Записки/Ежемесячные",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "data/templates/daily_note_template",
+    "folder": "Записки/Ежеквартальные",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "data/templates/daily_note_template",
+    "folder": "Записки/Ежегодные",
+    "enabled": true
+  }
+}

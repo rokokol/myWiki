@@ -46,9 +46,6 @@
   "exportPath": "/home/rokoko/ObsidianVaults/public_site",
   "filesToExport": [
     [
-      "data/photos",
-      "data/icon.ico",
-      "data/Галерея.md",
       "Записки",
       "События",
       "Учеба и хобби/Исследования",
@@ -58,6 +55,7 @@
       "Учеба и хобби/Черновики",
       "index.md",
       "README.md",
+      "Галерея.md",
       "Дашборд.canvas",
       "Интересные тэги.md"
     ]
